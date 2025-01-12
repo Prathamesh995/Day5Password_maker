@@ -1,0 +1,1 @@
+Artificial Intelligence (AI) mentioneing to the simulation of human intelligence in machines, enabling them to perform tasks such as problem-solving, learning, and decision-making.
