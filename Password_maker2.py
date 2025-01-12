@@ -5,8 +5,7 @@ letters = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n',
 numbers = ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9']
 symbols = ['!', '#', '$', '%', '&', '(', ')', '*', '+']
 
-print("Welcome to you very own password maker.") # Hello
-
+print("Welcome to you very own password maker.")
 num_letters = int(input("How many letters: "))
 num_number = int(input("How many numbers: "))
 num_symbol = int(input("How many symbols: "))
